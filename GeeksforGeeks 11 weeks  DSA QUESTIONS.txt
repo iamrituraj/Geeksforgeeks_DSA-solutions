@@ -1,0 +1,285 @@
+----------------------------ARRAYS-----------------------------
+-----BASIC
+Remove duplicate elements from sorted Array
+Reverse array in groups
+Who has the majority?
+-----EASY
+Rotate Array
+Find Transition Point
+Equilibrium Point
+Leaders in an array
+Wave Array
+Subarray with given sum
+First Repeating Element
+Find Immediate Smaller Than X
+-------MEDIUM
+Kadane's Algorithm
+Smallest Positive missing number
+Rearrange an array with O(1) extra space
+Trapping Rain Water
+----------HARD
+Merge Without Extra Space
+
+
+
+-------------------------------------------MATHEMATICS
+
+-----BASIC
+Smallest divisible number
+Addition Under Modulo 
+Absolute Value
+Convert Celsius To Fahrenheit
+Quadratic Equation Roots
+-----EASY
+Digits In Factorial
+GP Term
+Primality Test
+Exactly 3 Divisors
+Modular Multiplicative Inverse
+
+-------------------------------------------SEARCHING & SORTING
+
+ -----BASIC
+Square root
+Binary Search
+-----EASY
+Peak element
+Search in a Sorted and Rotated Array
+Merge Sort
+Quick Sort
+Union of Two Sorted Arrays
+Intersection of two sorted arrays
+Sort an array of 0s, 1s and 2s
+-------MEDIUM
+Minimum Swaps to Sort
+Minimum Platforms
+Sort an array of 0s, 1s and 2s
+----------HARD
+Median of Two sorted arrays
+
+
+
+---------------------------------------------MATRIX
+
+-----BASIC
+Adding two matrices
+Multiply the matrices
+Determinant of a Matrix
+Transpose of Matrix
+Rotate by 90 degree
+-----EASY
+Search in a row-column sorted Matrix
+-------MEDIUM
+Spirally traversing a matrix
+Max rectangle
+
+
+---------------------------------------------STRINGS
+
+Convert to Roman No
+-----BASIC
+Maximum Occuring Character
+Missing Characters in Panagram
+Implement strstr
+Remainder with 7
+Check if strings are rotations of each other or not
+Reverse words in a given string
+-----EASY
+Isomorphic Strings
+Anagram
+-------MEDIUM
+Validate an IP Address
+Longest Substring Without Repeating Characters
+Multiply two strings
+Longest Palindrome Substring
+Excel Sheet | Part - 1
+
+
+---------------------------------------------BIT MAGIC
+
+-----BASIC
+Check whether K-th bit is set or not
+Number is sparse or not
+Binary To Gray Code equivalent
+Power of 2
+Gray to Binary equivalent
+Bit Difference
+-----EASY
+Find first set bit
+Rightmost different bit
+Swap all odd and even bits
+-------MEDIUM
+Count total set bits
+-------HARD
+Maximum subset XOR
+
+
+---------------------------------------------HASHING
+
+-----BASIC
+Check if two arrays are equal or not
+-----EASY
+Max distance between same elements
+Longest Consecutive Subsequence
+Two Sum
+Largest subarray with 0 sum
+Top K Frequent Elements in Array - |
+Print Non-Repeated Elements
+Count distinct elements in every window
+-------MEDIUM
+Sorting Elements of an Array by Frequency
+Zero Sum Subarrays
+Relative Sorting
+Find All Four Sum Numbers
+
+
+
+
+
+----------------------------------------------LINKEDLIST
+
+Print Linked List elements
+-----EASY
+Reverse a linked list
+Occurence of an integer in a Linked List
+Pairwise swap elements of a linked list
+Add two numbers represented by linked lists
+Sorted insert for circular linked list
+Split a Circular Linked List into two halves
+Detect Loop in linked list
+Delete Middle of Linked List
+Circular Linked List Delete at Position
+-------MEDIUM
+Delete without head pointer
+Reverse a Linked List in groups of given size.
+Intersection Point in Y Shapped Linked Lists
+Quick Sort on Linked List
+Clone a linked list with next and random pointer
+Merge Sort on Doubly Linked List
+----------HARD
+QuickSort on Doubly Linked List
+
+
+
+----------------------------------------------STACK
+
+ -----EASY
+Reverse a string using Stack
+Evaluation of Postfix Expression
+Sort a stack
+-------MEDIUM
+Get minimum element from stack
+Parenthesis Checker
+Max rectangle
+Maximum Rectangular Area in a Histogram
+Stock span problem
+Infix to Postfix
+Next larger element
+----------HARD
+Maximum of minimum for every window size
+
+
+
+
+----------------------------------------------QUEUE
+ 
+
+Generate Binary Numbers
+ -----EASY
+Queue Push & Pop
+Stack using two queues
+Queue using circular array
+Maximium Sum
+Reverse First K elements of Queue
+Queue using two Stacks
+-------MEDIUM
+Maximum of all subarrays of size k
+Steps by Knight
+
+---------------------------------------------TREES
+
+Count Leaves in Binary Tree
+ -----EASY
+Right View of Binary Tree
+Two Mirror Trees
+Diameter of Binary Tree
+Level order traversal in spiral form
+Lowest Common Ancestor in a Binary Tree
+Determine if Two Trees are Identical
+Root to leaf path sum
+Vertical sum
+Kth Ancestor in a Tree
+ZigZag Tree Traversal
+Deletion in a Binary Tree
+Check if Tree is Isomorphic
+Children Sum Parent
+-------MEDIUM
+Sum Tree
+Construct Binary Tree from Parent Array
+Min distance between two given nodes of a Binary Tree
+Duplicate subtree in Binary Tree
+--------HARD
+Number of Turns in Binary Tree
+
+
+
+---------------------------------------------HEAP
+ 
+-----EASY
+Binary Heap Operations
+Heap Sort
+Huffman Decoding-1
+-------MEDIUM
+Kth largest element
+Nearly sorted
+Minimum Cost of ropes
+Merge k Sorted Arrays
+K Most occurring elements
+--------HARD
+Find median in a stream
+
+
+---------------------------------------------GRAPH
+
+-----EASY
+DFS of Graph
+BFS of graph
+
+-------MEDIUM
+Detect cycle in a directed graph
+Detect cycle in an undirected graph
+Find the number of islands
+Unit Area of largest region of 1's
+Steps by Knight
+Word Boggle
+Rotten Oranges
+Strongly Connected Components (Kosaraju's Algo)
+
+
+---------------------------------------------GREEDY
+
+-----EASY
+Fractional Knapsack
+Largest number with given sum
+Huffman Decoding
+-------MEDIUM
+Job Sequencing Problem
+
+
+
+
+---------------------------------------------DYNAMIC PROGRAMMING
+
+
+Print first n Fibonacci Numbers
+-------EASY
+0 - 1 Knapsack Problem
+Stickler Thief
+Coin Change - Number of ways
+Coin Change - Minimum number of coins
+---------MEDIUM
+Count Palindromic Subsequences
+Longest Increasing Subsequence
+Egg Dropping Puzzle
+Longest Common Subsequence
+Subset Sum Problem
